@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Yugal Govind</h1>
 <h3 align="center">A passionate about Learning Full Stack Development</h3>
 
-- 🌱 I’m currently learning **Front end Development**
+- 🌱 Full Stack Python Developer
 
 - 📫 How to reach me **yugalgovind1072@gmail.com**
 
